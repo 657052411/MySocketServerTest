@@ -1,0 +1,1 @@
+include ':app', ':java_print', ':java_result', ':java_prictice', ':java_scoketserver'

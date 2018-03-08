@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyJavaTest.iml" filepath="$PROJECT_DIR$/MyJavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_prictice/java_prictice.iml" filepath="$PROJECT_DIR$/java_prictice/java_prictice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_print/java_print.iml" filepath="$PROJECT_DIR$/java_print/java_print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_result/java_result.iml" filepath="$PROJECT_DIR$/java_result/java_result.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_scoketserver/java_scoketserver.iml" filepath="$PROJECT_DIR$/java_scoketserver/java_scoketserver.iml" />
+    </modules>
+  </component>
+</project>
